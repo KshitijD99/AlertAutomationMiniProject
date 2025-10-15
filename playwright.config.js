@@ -21,11 +21,11 @@ export default defineConfig({
       }
     }, 
     {
-      name:'Safari',
+      name:'Firefox',
       use:{
         trace:'on',
         headless:true,
-        browserName:'webkit',
+        browserName:'firefox',
       }
     }
     
