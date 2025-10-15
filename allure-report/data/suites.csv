@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8685","MiniProject","Safari","Thu Oct 09 10:44:27 IST 2025","passed","Thu Oct 09 10:44:35 IST 2025","","miniproject.spec.js","",""
+"","29095","MiniProject","chrome","Thu Oct 09 10:44:26 IST 2025","passed","Thu Oct 09 10:44:55 IST 2025","","miniproject.spec.js","",""

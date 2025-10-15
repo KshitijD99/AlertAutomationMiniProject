@@ -1,0 +1,8 @@
+Error message : page.goto: Test ended.
+Call log:
+  - navigating to "https://demo.automationtesting.in/Alerts.html", waiting until "load"
+
+Error message : locator.click: Target page, context or browser has been closed
+----Simple Alert----
+Error message : locator.click: Target page, context or browser has been closed
+false

@@ -1,0 +1,11 @@
+Error message : page.goto: Timeout was reached
+Call log:
+  - navigating to "https://demo.automationtesting.in/Alerts.html", waiting until "load"
+
+Error message : locator.click: Test ended.
+Call log:
+  - waiting for getByRole('link', { name: 'SwitchTo' })
+
+----Simple Alert----
+Error message : locator.click: Target page, context or browser has been closed
+false

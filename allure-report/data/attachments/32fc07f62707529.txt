@@ -1,0 +1,6 @@
+----Simple Alert----
+true
+----Dismiss Alert----
+You Pressed Cancel
+----Prompt Alert----
+Hello Kshitij How are you today
