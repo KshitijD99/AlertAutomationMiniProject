@@ -16,7 +16,7 @@ export default defineConfig({
       name:'chrome',
       use:{
         trace:'on',
-        headless:false,
+        headless:true,
         browserName:'chromium',
       }
     }, 
@@ -24,7 +24,7 @@ export default defineConfig({
       name:'Safari',
       use:{
         trace:'on',
-        headless:false,
+        headless:true,
         browserName:'webkit',
       }
     }
